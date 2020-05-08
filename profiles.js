@@ -178,20 +178,6 @@ ALUMNIS.push({
 
 ALUMNIS.push({
     id: 13,
-    image: 'Rafael Bezerra Campos.jpg',
-    name: "Rafael Bezerra Campos",
-    stack: "Hyper",
-    city: "São Luís",
-    uf: "MA",
-    dream: "Meu sonho até o final do ano é me mudar pra SP ou BH, trabalhando em startups grandes e principalmente na área de growth. Obs: tendo um bom salário também.",
-    learn: "Eu quero aprender a experiência de atuar dentro de uma startup, fazendo conexões entre o teórico e prático.",
-    teach: "Eu posso ensinar sobre produto digital, trabalho remoto e business.",
-    oneyear: "Daqui a um ano vou tá vivendo novas experiências e trabalhando em um lugar onde seja inclusive e diverso. Ah, também é legal falar que meu time vai ser bem grande e vou ter muitas experiências legais.",
-    linkedin: "www.linkedIn.com/in/rafaelhundrao/"
-})
-
-ALUMNIS.push({
-    id: 14,
     image: 'Pamella Souza.jpeg',
     name: "Pâmella de Oliveira Souza",
     stack: "Hyper",
@@ -202,4 +188,18 @@ ALUMNIS.push({
     teach: "Como viajar sozinho rs",
     oneyear: "Plataforma de Stream ",
     linkedin: "www.linkedin.com/in/pâmella-souza94/"
+})
+
+ALUMNIS.push({
+    id: 14,
+    image: 'Rafael Bezerra Campos.jpg',
+    name: "Rafael Bezerra Campos",
+    stack: "Hyper",
+    city: "São Luís",
+    uf: "MA",
+    dream: "Meu sonho até o final do ano é me mudar pra SP ou BH, trabalhando em startups grandes e principalmente na área de growth. Obs: tendo um bom salário também.",
+    learn: "Eu quero aprender a experiência de atuar dentro de uma startup, fazendo conexões entre o teórico e prático.",
+    teach: "Eu posso ensinar sobre produto digital, trabalho remoto e business.",
+    oneyear: "Daqui a um ano vou tá vivendo novas experiências e trabalhando em um lugar onde seja inclusive e diverso. Ah, também é legal falar que meu time vai ser bem grande e vou ter muitas experiências legais.",
+    linkedin: "www.linkedIn.com/in/rafaelhundrao/"
 })

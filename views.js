@@ -2,8 +2,8 @@ let profiles = document.querySelector('#profiles')
 
 profiles.innerHTML += generateGroup("Hacker")
 profiles.innerHTML += generateGroup("Hipster")
-profiles.innerHTML += generateGroup("Hyper",true)
 profiles.innerHTML += generateGroup("Hustler",true)
+profiles.innerHTML += generateGroup("Hyper",true)
 
 // essa função retorna o html pra cada perfil
 function generateProfile(profile, num){
